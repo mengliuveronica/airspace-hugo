@@ -19,10 +19,10 @@ analytics_id = ""
 enable = false
 [contact.form]
 action = "#"
-enable = true
+enable = false
 success_image = "images/paper-plane.svg"
-use_netlify = true
-use_recaptcha = true
+use_netlify = false
+use_recaptcha = false
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
@@ -58,22 +58,6 @@ google = ""
 [widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
 icon = "fab fa-twitter"
 link = "#"
 title = "twitter"
-[[social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
