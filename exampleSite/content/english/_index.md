@@ -4,11 +4,10 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Open Scholarship in Applied Linguistics
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: A two-day Symposium in June 2022
   button:
     enable: true
-    label: Discover Our Project
+    label: 'Find out more '
     link: project
 about:
   enable: true
