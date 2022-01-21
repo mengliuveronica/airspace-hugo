@@ -4,7 +4,7 @@ banner:
   bg_image: images/purple mountain.jpg
   bg_overlay: true
   title: Open Scholarship in Applied Linguistics
-  content: A two-day Symposium in June 2022
+  content: Online Symposium in June 2022
   button:
     enable: true
     label: 'Find out more '
