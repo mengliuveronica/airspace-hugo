@@ -7,7 +7,7 @@ banner:
   content: Online Symposium in June 2022
   button:
     enable: true
-    label: 'Find out more '
+    label: Register
     link: project
 about:
   enable: true
@@ -39,9 +39,9 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
@@ -52,7 +52,7 @@ cta:
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
