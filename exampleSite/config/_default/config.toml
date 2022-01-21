@@ -6,7 +6,7 @@ hasCJKLanguage = false
 paginate = "6"
 summaryLength = "10"
 theme = "airspace-hugo"
-timeZone = "UTC"
+timeZone = "GMT"
 title = "Open Applied Linguistics"
 [caches.assets]
 dir = ":resourceDir/_gen"
