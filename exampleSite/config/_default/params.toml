@@ -42,7 +42,7 @@ enable = false
 id = ""
 url = ""
 [navigation_button]
-enable = true
+enable = false
 label = "get a quote"
 link = "contact"
 [plausible]
